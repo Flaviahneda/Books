@@ -1,30 +1,29 @@
 @media screen and (min-width: 1024px) {
-    .contato {
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    .carrossel__titulo {
+      font-size: 26px;
     }
   }
   @media screen and (min-width: 1024px) {
     /* Código omitido */
   
-    .contato__titulo {
-      font-size: 24px;
+    .swiper-pagination {
+      margin: 2em 0 3em 0;
     }
   }
   @media screen and (min-width: 1024px) {
     /* Código omitido */
   
-    .contato__descrição {
-      margin-right: 1em;
-      width: 30%;
+    .swiper {
+      width: 60%;
     }
   }
   @media screen and (min-width: 1024px) {
     /* Código omitido */
   
-    .contato__email {
-      width: 30%;
+    .swiper-button-prev,
+    .swiper-button-next {
+      display: block;
+      top: 60%;
     }
   }
   
