@@ -100,3 +100,12 @@
   
     /* Código omitido */
   }
+  @media screen and (min-width: 1728px) {
+    /* Código omitido */
+  
+    .container__texto {
+      display: block;
+    }
+  }
+
+  
